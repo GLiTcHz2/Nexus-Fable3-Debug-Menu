@@ -8,6 +8,7 @@ Please ensure the Script Injector is installed and working before using this too
 
 
 Installation:
+- Download the latest version from: https://github.com/GLiTcHz2/Nexus-Fable3-Debug-Menu/releases/
 - Extract the Fable 3 Debug Menu folder to a convenient location (Desktop, Documents, etc.).
 (Note: Do not run directly from inside the ZIP file).
 - Launch Fable3DebugMenu.exe
